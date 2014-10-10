@@ -6,15 +6,15 @@ But you also want to zoom in to show off some detail and it will reflect at your
 Installation required only for the giver. 
 
 
-WEB SERVICE
-=================
+Webservice
+=============
 This module is RESTFull webservice that will be used to post and get the images.
 
 
-DEPENDENCIES
-=================
+Dependencies
+=============
 
-JAVA 8 
-MAVEN
-[SPARK JAVA](http://www.sparkjava.com/)
-[GSON](https://code.google.com/p/google-gson/)
+* JAVA 8.
+* MAVEN
+* [SPARK JAVA](http://www.sparkjava.com/)
+* [GSON](https://code.google.com/p/google-gson/)
